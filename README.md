@@ -18,6 +18,12 @@ Every hit is a LEAD. Both shapes are correct over input the program produced
 itself; read each one and ask where the bytes come from.
 ```
 
+## Install
+
+```sh
+go install github.com/go-fleettools/unbounded/cmd/unbounded@latest
+```
+
 ## Why
 
 Both shapes are how a few hundred bytes of input become a few gigabytes of
